@@ -2,8 +2,7 @@
 
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     int number, price, month, day, year;
 
     printf("Enter item number: ");
